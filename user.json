@@ -1,0 +1,24 @@
+{
+    "ID": "1",
+    "firstName": "John",
+    "lastName": "Smith",
+    "birthDate": "10/22/1955",
+    "birthPlace": "New York",
+    "gender": "male",
+    "motherID": "10",
+    "fatherID": "100",
+    "sibling": [
+        {
+            "siblingID": "1000"
+        },
+        {
+            "siblingID": "2000"
+        },
+        {
+            "siblingID": "3000"
+        }
+    ],
+    "death": "true",
+    "deathPlace": "Boston",
+    "deathDate": "01/17/2015" 
+}

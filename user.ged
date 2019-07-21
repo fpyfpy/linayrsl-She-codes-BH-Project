@@ -1,0 +1,19 @@
+User gedcom file:
+HEADER will be here
+0 @I1@ INDI
+1 NAME John /Smith/
+1 SEX male
+1 BIRT
+2 DATE 10/22/1955
+2 PLAC New York
+1 DEAT
+2 DATE 01/17/2015
+2 PLAC Boston
+1 FAMC @F111@
+0 FAMC @F111@
+1 HUSB @I100@
+1 WIFE @I10@
+1 CHIL @I1@
+1 CHIL @I1000@
+1 CHIL @I2000@
+1 CHIL @I3000@
